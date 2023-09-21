@@ -37,6 +37,17 @@ Our project is currently in the prototype stage, showcasing our vision of a revo
 ## Installation
 
 Prerequisites :VS Code, Metamask Wallet, React.js and Next.js.
+
+## Deployment 
+
+1) First clone the repo by : ``` git clone https://github.com/0x0Ayush/BlockEstate.git ```
+2) Then move to the main directory : ``` cd BlockEstate ```
+3) Then run npm command : ``` npm install ```
+4) Then run : ``` npm run build ``` [This is used to build the build server] 
+5) Then run : ``` npm start ```     [This is used to start the startserver]
+6) Then run : ``` npm run dev ```   [This is used to start the development server]
+
+
     
 ## Smart Contract Address
 
@@ -45,7 +56,7 @@ BlockEstate Smart contract LINK : https://goerli.etherscan.io/address/0x61cb3df9
 Transfer Funds Smart contract address : 0x695c0dB85710ee1260394f050fEa40C3A91DC8b2
 Transfer Funds Smart contract LINK : https://goerli.etherscan.io/address/0x695c0db85710ee1260394f050fea40c3a91dc8b2
 
-Deployed website Link : https://block-estate-rodhdnqy1-0x0ayush.vercel.app/
+**Deployed website Link :** https://block-estate-rodhdnqy1-0x0ayush.vercel.app/
 
 
 
