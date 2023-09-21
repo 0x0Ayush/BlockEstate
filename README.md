@@ -46,6 +46,13 @@ Prerequisites :VS Code, Metamask Wallet, React.js and Next.js.
 4) Then run : ``` npm run build ``` [This is used to build the build server] 
 5) Then run : ``` npm start ```     [This is used to start the start server]
 6) Then run : ``` npm run dev ```   [This is used to start the development server]
+7) Head over to : https://block-estate-rodhdnqy1-0x0ayush.vercel.app/ to access the Dapp.
+8) Now Connect your Metamask Wallet by clicking [connect Wallet].
+9) Now Upload the LAND Image in [img File] by clicking the create button and fill the details and the price that the Bank wana set it for.
+10) Now the LAND Image will be Uploaded to IPFS and Metmask PoP will Occur for signing the Transcation. Make sure you have enough Goerli ETH Testnet Tokens.
+11) IF not take the Faucet from : https://goerlifaucet.com/ .
+12) Now the NFT will be minted and other users can BID in the auction or they can simply Buy the LAND NFT !
+13) The Users can also trade the LAND NFT among them self removing all the middle mans.
 
 
     
