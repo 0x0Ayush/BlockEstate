@@ -44,7 +44,7 @@ Prerequisites :VS Code, Metamask Wallet, React.js and Next.js.
 2) Then move to the main directory : ``` cd BlockEstate ```
 3) Then run npm command : ``` npm install ```
 4) Then run : ``` npm run build ``` [This is used to build the build server] 
-5) Then run : ``` npm start ```     [This is used to start the startserver]
+5) Then run : ``` npm start ```     [This is used to start the start server]
 6) Then run : ``` npm run dev ```   [This is used to start the development server]
 
 
